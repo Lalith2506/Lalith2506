@@ -27,14 +27,11 @@
 <br/>
 
 <div align="center">
-  <a href="mailto:lalith2506@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lalith2506@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/lalith2506/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Lalith2506" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
@@ -44,7 +41,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:6366F1&height=100&section=header"/>
 </p>
 
-<h2 align="center">⚒️ Tech Arsenal ⚒️</h2>
+<h2 align="center">⚒️ Tech Stack ⚒️</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,java,react,nodejs,mongodb,mysql,git,github,vscode" />
@@ -55,26 +52,14 @@
 <h2 align="center">🚀 Featured Projects 🚀</h2>
 
 <div align="center">
-
-<a href="https://github.com/Lalith2506">
-  <img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Lalith2506&repo=My-Portfolio&theme=react&border_radius=10"/>
-</a>
-
-<a href="https://github.com/Lalith2506">
-  <img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Lalith2506&repo=Lalith2506&theme=react&border_radius=10"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
   
 🔹 <b>Blockchain Product Authentication</b><br/>
-Product authentication system using blockchain and barcode hashing.<br/><br/>
+Product authentication system using blockchain and barcode hashing.<br/>
+<a href="https://github.com/Lalith2506" target="_blank">🔗 View Project</a><br/><br/>
 
 🔹 <b>Secure Data Sharing in IoT Devices</b><br/>
-Secure data sharing system for IoT devices using encryption techniques.
+Secure data sharing system for IoT devices using encryption techniques.<br/>
+<a href="https://github.com/Lalith2506" target="_blank">🔗 View Project</a>
 
 </div>
 
@@ -88,7 +73,7 @@ Secure data sharing system for IoT devices using encryption techniques.
 
 <br/>
 
-<h2 align="center">⚡ GitHub Power ⚡</h2>
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
 
 <div align="center">
   <img width=390 src="https://streak-stats.demolab.com?user=Lalith2506&theme=react&border_radius=10" />
@@ -106,11 +91,10 @@ Secure data sharing system for IoT devices using encryption techniques.
 <h2 align="center">🏆 Achievements 🏆</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lalith2506&theme=algolia&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Lalith2506&theme=onedark&no-frame=true&margin-w=10" />
 </div>
 
 <br/>
-
 
 <h2 align="center">📊 Activity Graph 📊</h2>
 
