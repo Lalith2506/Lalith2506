@@ -47,23 +47,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,python,java,react,nodejs,mongodb,mysql,git,github,vscode" />
 </div>
 
-<br/>
 
-<h2 align="center">🚀 Featured Projects 🚀</h2>
-
-<div align="center">
-  
-🔹 <b>Blockchain Product Authentication</b><br/>
-Product authentication system using blockchain and barcode hashing.<br/>
-<a href="https://github.com/Lalith2506" target="_blank">🔗 View Project</a><br/><br/>
-
-🔹 <b>Secure Data Sharing in IoT Devices</b><br/>
-Secure data sharing system for IoT devices using encryption techniques.<br/>
-<a href="https://github.com/Lalith2506" target="_blank">🔗 View Project</a>
-
-</div>
-
-<br/>
 
 <h2 align="center">🐍 Contribution Graph 🐍</h2>
 
