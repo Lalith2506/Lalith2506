@@ -75,7 +75,7 @@
 <h2 align="center">🏆 Achievements 🏆</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lalith2506&theme=onedark&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Lalith2506&theme=algolia&no-frame=true&margin-w=15" />
 </div>
 
 <br/>
